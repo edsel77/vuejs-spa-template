@@ -1,7 +1,9 @@
 # vuejs-spa-template
 
 > Simple template for SPA Vue.js app
+
 > Single Page Application (SPA)
+
 > History mode
 
 ## Build Setup
